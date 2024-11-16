@@ -225,22 +225,22 @@ EditorBuildSettings:
     path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreenSimple.unity
     guid: 945e5b97212e8e74ebcd35bddde3970c
   - enabled: 0
-    path: Assets/AssetsLastHope/Escenas/Menu.unity
+    path: Assets/Assets/Escenas/Menu.unity
     guid: 5d755fb5006ad974a850001347d8e15e
   - enabled: 0
-    path: Assets/AssetsLastHope/Escenas/Nivel1.unity
+    path: Assets/Assets/Escenas/Nivel1.unity
     guid: a6a59a5c092ea2645b8f5875a39cfe2e
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/AssetsLastHope/Escenas/Creditos.unity
+    path: Assets/Assets/Escenas/Creditos.unity
     guid: a160484b5fcdf16459fcb1b8b7eafee1
   - enabled: 0
-    path: Assets/AssetsLastHope/Escenas/Instrucciones.unity
+    path: Assets/Assets/Escenas/Instrucciones.unity
     guid: a1757dab024b43d4489cb4763399082f
   - enabled: 0
-    path: Assets/AssetsLastHope/Escenas/logros.unity
+    path: Assets/Assets/Escenas/logros.unity
     guid: d96fae72657ae3a449bcfaa2329ae3be
   - enabled: 1
     path: Assets/Taller 2/Scenes/Menu.unity
@@ -264,9 +264,9 @@ EditorBuildSettings:
     path: Assets/Taller 2/Scenes/Final.unity
     guid: c7136114a2dfd89408fb6f5746c84a9d
   - enabled: 0
-    path: Assets/AssetsLastHope/Escenas/Nivel3.unity
+    path: Assets/Assets/Escenas/Nivel3.unity
     guid: 9f02b7a3f18a59e44ac5a9a921b843d6
   - enabled: 0
-    path: Assets/AssetsLastHope/Escenas/Nivel3.0.unity
+    path: Assets/Assets/Escenas/Nivel3.0.unity
     guid: 11051b212cac15342994292f82f445df
   m_configObjects: {}
